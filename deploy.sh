@@ -7,4 +7,4 @@ git add .
 git commit -m "new links"
 # git fetch --all
 # git rebase origin/links
-git push -u origin HEAD:links
+git push -u origin HEAD:links --force
