@@ -4,7 +4,7 @@ git config --global user.email "hi@sri.so"
 git config --global user.name "$GITHUB_ACTOR"
 
 rm deploy.sh
-rm -rf .git
+rm .github
 rm generate.sh
 rm README.md
 rm template.html
