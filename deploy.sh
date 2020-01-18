@@ -7,4 +7,5 @@ git add .
 git commit -m "new links"
 git branch
 git remote -v
+git fetch --all
 git push origin links
