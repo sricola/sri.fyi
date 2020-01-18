@@ -6,7 +6,8 @@ do
 	then
 		mkdir $short_url
 		sed "s!LONG_URL!$long_url!g" template.html > $short_url/index.html
+        printf "Made: $short_url -> $long_url"
 	else
-		printf "\n Error: $short_url -> $long_url exists."
+		printf "\n Passing: $short_url -> $long_url exists."
 	fi
 done < links.csv
