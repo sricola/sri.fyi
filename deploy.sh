@@ -6,5 +6,5 @@ git config --global user.name "sricola"
 git add .
 git commit -m "new links"
 git branch
-
+git remote -v
 git push origin links
