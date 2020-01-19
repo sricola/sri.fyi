@@ -17,4 +17,4 @@ Push your branch to github and set github pages to build from the `/docs` folder
 I have added my google analytics code to `template.html` - possibilities are endless.
 
 # Example
-https://sri.fyi/twitter -(301's to)-> https://twitter.com/sricola
+https://sri.fyi/twitter --(301's to)--> https://twitter.com/sricola
