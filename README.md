@@ -1,5 +1,5 @@
-# sri.fyi - a poor man's bitly with custom domain
-This is a poor man's implementation of bitly (a link shortner) using github pages. You can point a custom domain at it and have it work just like bitly would.
+# sri.fyi - a poor person's bitly with custom domain
+This is a poor person's implementation of bitly (a link shortner) using github pages. You can point a custom domain at it and have it work just like bitly would.
 
 # Why not just use bitly?
 Well, I just bought a new domain `sri.fyi` and wanted to use it for my social links etc. Bitly used to allow free custom domains, but charges for it these days.
