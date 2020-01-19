@@ -5,10 +5,10 @@ This is a poor man's implementation of bitly (a link shortner) using github page
 Edit the `links.csv` file and add a `short_url, long_url` entry
 
 # generate links
-running `generate.sh` will make the folder structure in `/docs` using the contents of `template.html`
+Running `generate.sh` will make the folder structure in `/docs` using the contents of `template.html`
 
 # publish
-push your branch to github and set github pages to build from the `/docs` folder in `master`
+Push your branch to github and set github pages to build from the `/docs` folder in `master`
 
 # analytics
 I have added my google analytics code to `template.html` - possibilities are endless.
